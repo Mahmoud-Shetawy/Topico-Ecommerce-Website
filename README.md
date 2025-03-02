@@ -16,7 +16,7 @@ Topico-E-commerce-Website is a simple e-commerce web project built using HTML, C
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Topico-Ecommerce-Website.git
+   git clone https://github.com/Mahmoud-Shetawy/Topico-Ecommerce-Website.git
    ```
 2. Navigate to the project folder:
    ```bash
